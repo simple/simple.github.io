@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Beanyard]]></title>
+  <link href="http://simple.github.io/atom.xml" rel="self"/>
+  <link href="http://simple.github.io/"/>
+  <updated>2013-08-14T15:29:58+09:00</updated>
+  <id>http://simple.github.io/</id>
+  <author>
+    <name><![CDATA[Leo Ju]]></name>
+    <email><![CDATA[mr.simple@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to unhighlight text in GoodReader]]></title>
+    <link href="http://simple.github.io/blog/2013/06/25/how-to-unhighlight-text-in-goodreader/"/>
+    <updated>2013-06-25T03:51:00+09:00</updated>
+    <id>http://simple.github.io/blog/2013/06/25/how-to-unhighlight-text-in-goodreader</id>
+    <content type="html"><![CDATA[<p>It was not easy to figure out how to unhilghight text in GoodReader.</p>
+
+<p>After trying every item of context menu on selected text, long touch and swipe on Annotations list, I consulted the Google.
+I found a <a href="http://www.ipadforums.net/ipad-general-discussions/16730-questions-goodreader-app.html">Question</a> but that didn&rsquo;t help me a lot.</p>
+
+<p>It turned out that I just needed a single touch on the highlighted text. GoodReader finally showed me the context menu below.
+<img src="http://simple.github.io/images/goodreader-unhighlight.jpg" alt="GoodReader Context menu" /></p>
+
+<p>That&rsquo;s it. It jsut did what&rsquo;s expected.</p>
+]]></content>
+  </entry>
+  
+</feed>
